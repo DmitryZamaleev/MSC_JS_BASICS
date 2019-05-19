@@ -1,0 +1,1 @@
+console.log('Ypu are bitches' + window.location)
